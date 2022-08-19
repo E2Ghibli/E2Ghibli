@@ -89,6 +89,3 @@ I started with garry's mod wiremod expression 2 coding have there many hologram 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
