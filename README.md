@@ -71,12 +71,3 @@ I started with garry's mod wiremod expression 2 coding have there many hologram 
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=E2Ghibli&&style=flat-square)  
-  
-
-<br/>  
