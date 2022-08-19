@@ -1,8 +1,7 @@
 ## Hello, I'm Ghibli, a hobby coder from Germany  
   
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/E2Ghibli?style=social"> 
-<img alt="Steam URL" src="https://img.shields.io/steam/url?label=Steam&logo=steam&style=social&url=Sutajio_Jiburi">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/E2Ghibli?style=social"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Steam&logo=steam&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FSutajio_Jiburi">
   
 
 
