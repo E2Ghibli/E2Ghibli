@@ -1,7 +1,7 @@
 ## Hello, I'm Ghibli, a hobby coder from Germany  
 
 
-<a href="https://github.com/E2Ghibli?tab=followers" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/E2Ghibli?style=social"></a> <a href="https://steamcommunity.com/id/Sutajio_Jiburi" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Steam&logo=steam&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FSutajio_Jiburi"></a>
+<a href="https://github.com/E2Ghibli?tab=followers" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/E2Ghibli?style=social"></a> <a href="https://steamcommunity.com/id/Sutajio_Jiburi" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Steam&logo=steam&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FSutajio_Jiburi"></a> <a href="https://www.twitch.tv/e2ghibli" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitch&logo=twitch&style=social&url=https%3A%2F%2Fwww.twitch.tv%2Fe2ghibli"></a>
   
 
 
