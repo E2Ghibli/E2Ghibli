@@ -10,7 +10,7 @@ I am a small hobby coder from germany i do many small projects and sometimes i a
 I started with garry's mod wiremod expression 2 coding have there many hologram mechs built mainly spiders. But after a while then went to Lua and so I have there always developed and learned more and more languages.  
 
 
-## Languages and Tools
+## Skills
 <details>
 <summary>Browsers</summary>
 <br>
