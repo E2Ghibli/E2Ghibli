@@ -21,14 +21,8 @@ I started with garry's mod wiremod expression 2 coding have there many hologram 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=E2Ghibli&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E2Ghibli&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+![](https://github-readme-stats.vercel.app/api?username=E2Ghibli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=E2Ghibli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=E2Ghibli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>  
